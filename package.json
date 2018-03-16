@@ -1,0 +1,23 @@
+{
+  "name": "code-and-magick",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Учебный проект «Код и Магия» от HTML Academy",
+  "author": "Pixel-Man",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixel-Man/Code-and-Magic"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "4.2.0",
+    "eslint-config-htmlacademy": "0.3.x"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^6.10"
+  }
+}
